@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804819604826",
+    "project_id": "flutter-ninjas",
+    "storage_bucket": "flutter-ninjas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804819604826:android:04c04917182408488ccf63",
+        "android_client_info": {
+          "package_name": "com.example.ninjasfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804819604826-079jumtas11fi7e7k9525vfcssvduuam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8FrKCYJdgoSsrdMwl6d2A9TGU-RTWhy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804819604826-079jumtas11fi7e7k9525vfcssvduuam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
